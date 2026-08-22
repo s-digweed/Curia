@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+*.log
+# NOTE: .autoheal_state.json is deliberately NOT ignored (CI is ephemeral).
