@@ -7,7 +7,7 @@ https://tving-live-o2-skcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed8
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed904d9651eb80e79cd7979dc5/019ed90583cd153d78653cb4bf7bdd/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTc4OTgsInBhdGgiOiIvbzIifQ.1n56h0qmEe_zkijcYfUcXoz_EgTT06I6LuZvwErBOSE
 #EXTINF:-1 tvg-id="중화TV.kr" tvg-name="Chunghwa TV" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/84/%EC%A4%91%ED%99%94TV_logo.png",Chunghwa TV
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTg0NDQsInBhdGgiOiIvbzIifQ.xB_fLQSGPkXtHgy4U_0VugPToenzKab49fzUbJ4n2KA
-#EXTINF:-1 tvg-id="코미디TV.kr" tvg-name="Comedy TV" group-title="General" tvg-logo="https://ihq.co.kr/channel/wp-content/uploads/sites/9/2024/01/comedytv_logo.png",Comedy TV
+#EXTINF:-1 tvg-id="코미디TV.kr" tvg-name="Comedy TV" group-title="General" tvg-logo="https://i.imgur.com/yeqj93e.png",Comedy TV
 http://124.222.153.240/kakaotv/get_channel.php?channel=ihq#.m3u8
 #EXTINF:-1 tvg-id="E채널.kr" tvg-name="E Channel" group-title="General" tvg-logo="https://i.imgur.com/dXaJ37Z.png",E Channel
 http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e#.m3u8
