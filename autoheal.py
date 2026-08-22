@@ -38,13 +38,18 @@ PLAYLIST_MAIN = "CU_Categories.m3u"
 PLAYLISTS = [PLAYLIST_MAIN]
 
 # Committed local candidate pool (always present, never depends on network).
-LOCAL_POOL = "kr_pool_hans.m3u"
+LOCAL_POOLS = ["kr_pool_hans.m3u", "kr_pool_korea2.m3u8"]
 
 # Live candidate pools, fetched each run. Raw URLs.
 REMOTE_POOLS = [
     "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/southKorea.m3u8",
-    "https://raw.githubusercontent.com/wcb1969/iptv/main/%E9%9F%A9%E5%9B%BD.txt",
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u",
+]
+
+# A self-refreshing JSON source (someone maintains this upstream). Parsed
+# separately because it's JSON, not m3u. Contributes fresh URLs each run.
+REMOTE_JSON_POOLS = [
+    "http://141.164.53.195/live/korea-live.json",
 ]
 
 # Hosts known dead / not to be used as replacements.
@@ -173,12 +178,13 @@ def build_candidate_index(verbose=False):
             if url not in idx[key]:
                 idx[key].append(url)
 
-    # local pool first (stable), then remote (fresh)
-    if os.path.exists(LOCAL_POOL):
-        for name, tid, url in parse_pool(read(LOCAL_POOL)):
-            add(name, tid, url)
-        if verbose:
-            print(f"  pool {LOCAL_POOL}: loaded")
+    # local pools first (stable), then remote (fresh)
+    for lp in LOCAL_POOLS:
+        if os.path.exists(lp):
+            for name, tid, url in parse_pool(read(lp)):
+                add(name, tid, url)
+            if verbose:
+                print(f"  pool {lp}: loaded")
 
     for purl in REMOTE_POOLS:
         try:
@@ -192,6 +198,29 @@ def build_candidate_index(verbose=False):
         except (URLError, HTTPError, Exception) as exc:
             if verbose:
                 print(f"  pool {purl.split('/')[-1]}: FAILED ({exc})")
+
+    # JSON pools: {channel-name/id: url or [urls]} shapes vary, so be liberal
+    import json as _json
+    for jurl in REMOTE_JSON_POOLS:
+        try:
+            data = _json.loads(fetch_text(jurl))
+            n = 0
+            def walk(obj, label=""):
+                nonlocal n
+                if isinstance(obj, str):
+                    if obj.startswith("http"):
+                        add(label, "", obj); n += 1
+                elif isinstance(obj, list):
+                    for v in obj: walk(v, label)
+                elif isinstance(obj, dict):
+                    for k, v in obj.items():
+                        walk(v, k if isinstance(k, str) else label)
+            walk(data)
+            if verbose:
+                print(f"  json pool {jurl.split('/')[-1]}: {n} urls")
+        except Exception as exc:
+            if verbose:
+                print(f"  json pool {jurl.split('/')[-1]}: FAILED ({exc})")
 
     return idx
 
