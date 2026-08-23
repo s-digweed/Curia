@@ -141,16 +141,16 @@ http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 # PARKED https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-name="MBC Mokpo" group-title="Local" tvg-logo="https://i.imgur.com/5oraHc0.png",MBC Mokpo (목포)
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="여수 MBC.kr" tvg-name="MBC Yeosu" group-title="Local" tvg-logo="https://i.imgur.com/3VSuYsn.png",MBC Yeosu (여수)
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="여수 MBC.kr" tvg-name="MBC Yeosu" group-title="Local" tvg-logo="https://i.imgur.com/3VSuYsn.png",MBC Yeosu (여수)
+# PARKED https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CJB 청주방송.kr" tvg-name="SBS CJB" group-title="Local" tvg-logo="https://i.imgur.com/zVunmpQ.png",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="SBS JIBS" group-title="Local" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
 # PARKED #EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
 # PARKED http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="SBS KBC" group-title="Local" tvg-logo="https://i.imgur.com/Srsw4Mi.png",SBS KBC
-https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="SBS KBC" group-title="Local" tvg-logo="https://i.imgur.com/Srsw4Mi.png",SBS KBC
+# PARKED https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UBC 울산방송.kr" tvg-name="SBS UBC" group-title="Local" tvg-logo="https://i.imgur.com/BBCoqIf.png",SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 #EXTINF:-1 tvg-id="KTV 국민방송.kr" tvg-name="Korea TV" group-title="News/Business" tvg-logo="",Korea TV
