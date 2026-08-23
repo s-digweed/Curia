@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/s-digweed/Curia/main/curia_epg.xml.gz"
 #EXTINF:-1 tvg-id="arirang.kr" tvg-name="Arirang Korea" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/960px-Arirang.svg.png",Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="채널A.kr" tvg-name="Channel A" group-title="General" tvg-logo="https://i.imgur.com/W9laHPD.png",Channel A
+#EXTINF:-1 tvg-id="채널A.kr" tvg-name="Channel A" group-title="General" tvg-logo="https://i.imgur.com/V69QV5S.png",Channel A
 https://tving-live-o2-skcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg0MTM1NDYzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=T4rPqZHgrj87OL4A-NRu4rsMUjB8Tjk7bB-O7lAIvvvFWrm4zonOcYO2tESCku3~JRHkVpAnUKqb63G2OGXQDLwYlJcMVJN0aNtkrRPgZyVXMlcLBJ2ot1l5z9SQA9vyDLOJN8BplSBd4zozQA3z~c3lIdFNcK85-7svF8xgnXmPpUkXdtWJ5ToCkF4NVCWjhocP7JLTtb8Yo-UcK9ak3Cb4pp8xGvAa-iqsedH7shGyKrpBWsdn-Z8fMO4J6yt5g7XPKpMfEoPMvam6b4cOqSokZiSgtmlY3EAIsjF39PVb-CbwC9BHfEKNDNerHQIfJ28OS9BM0Edm7NTa7jTY~g__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
-#EXTINF:-1 tvg-id="채널A플러스.kr" tvg-name="Channel A Plus" group-title="General" tvg-logo="https://i.imgur.com/2t4Y5FP.png",Channel A Plus
+#EXTINF:-1 tvg-id="채널A플러스.kr" tvg-name="Channel A Plus" group-title="General" tvg-logo="https://i.imgur.com/i5crAfh.png",Channel A Plus
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed904d9651eb80e79cd7979dc5/019ed90583cd153d78653cb4bf7bdd/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTc4OTgsInBhdGgiOiIvbzIifQ.1n56h0qmEe_zkijcYfUcXoz_EgTT06I6LuZvwErBOSE
 #EXTINF:-1 tvg-id="중화TV.kr" tvg-name="Chunghwa TV" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/84/%EC%A4%91%ED%99%94TV_logo.png",Chunghwa TV
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTg0NDQsInBhdGgiOiIvbzIifQ.xB_fLQSGPkXtHgy4U_0VugPToenzKab49fzUbJ4n2KA
