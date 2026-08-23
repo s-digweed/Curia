@@ -236,25 +236,31 @@ def candidates_for(tid, name, idx):
 
 
 # ---------------------------------------------------------------- probing
-def probe(url):
-    """True if the URL looks alive. 4xx-except-403/429 and DNS failure = dead.
-    403/429/5xx are treated as 'unknown' (alive) so a briefly-refusing host
-    isn't churned."""
+def probe_status(url):
+    """Return 'ok' (played/200), 'refused' (403/429/5xx - exists but blocked),
+    or 'dead' (DNS/timeout/4xx). Distinguishing refused from ok lets us PREFER
+    a genuinely-playable alternate over one that only answers with a block."""
     host = host_of(url)
     if host in DEAD_HOSTS or host in BANNED_HOSTS:
-        return False
+        return "dead"
     req = urllib.request.Request(url, headers={"User-Agent": UA}, method="GET")
     try:
         with urllib.request.urlopen(req, timeout=PROBE_TIMEOUT, context=_ctx) as r:
             r.read(2048)
-            return True
+            return "ok"
     except HTTPError as e:
-        # exists but refused / server error -> don't treat as dead
-        return e.code in (403, 429) or 500 <= e.code < 600
+        if e.code in (403, 429) or 500 <= e.code < 600:
+            return "refused"
+        return "dead"
     except (URLError, ssl.SSLError, TimeoutError, OSError):
-        return False
+        return "dead"
     except Exception:
-        return False
+        return "dead"
+
+
+def probe(url):
+    """Back-compat: alive if not dead (refused counts as alive)."""
+    return probe_status(url) != "dead"
 
 
 # ---------------------------------------------------------------- state
@@ -317,26 +323,35 @@ def heal_playlist(path, idx, state, check_only, verbose):
             continue
 
         url = c["url"]
-        if url and probe(url):
+        cur = probe_status(url) if url else "dead"
+
+        if cur == "ok":
             alive += 1
             continue
 
-        # dead -> find a live alternate
+        # Current URL is dead or only 'refused' (e.g. tving 403 from our region).
+        # Look for an alternate. Prefer an 'ok' one; fall back to keeping a
+        # 'refused' current url only if nothing better exists.
         cands = [u for u in candidates_for(tid, name, idx) if u != url]
-        chosen = None
+        ok_alt = None
         for u in cands:
-            if probe(u):
-                chosen = u
+            if probe_status(u) == "ok":
+                ok_alt = u
                 break
 
-        if chosen:
+        if ok_alt:
             if not check_only and c["url_idx"] is not None:
-                lines[c["url_idx"]] = chosen
-            print(f"  [heal] {name}: {host_of(url)} -> {host_of(chosen)}")
+                lines[c["url_idx"]] = ok_alt
+            print(f"  [heal] {name}: {host_of(url)} ({cur}) -> {host_of(ok_alt)} (ok)")
             healed += 1
+        elif cur == "refused":
+            # keep it: it exists, just blocked here; a player elsewhere/VPN may
+            # still reach it, and we have nothing genuinely better.
+            alive += 1
+            print(f"  [keep] {name}: {host_of(url)} refused here, no ok alternate")
         else:
             if cands:
-                no_source += 1  # had candidates but none alive right now
+                no_source += 1
             if not check_only and c["url_idx"] is not None:
                 lines[c["ext_idx"]] = "# PARKED " + lines[c["ext_idx"]]
                 lines[c["url_idx"]] = "# PARKED " + lines[c["url_idx"]]
@@ -385,3 +400,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+ 
