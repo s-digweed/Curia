@@ -217,8 +217,8 @@ https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ShoppingNTMall.kr" tvg-name="Shopping NT Mall" group-title="Shopping" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDNA6yTr51-ONjAqqfDhbSOeIJTXU0vHEacA&s",Shopping NT Mall
 https://live.shoppingntmall.com/live/10011.m3u8
-#EXTINF:-1 tvg-id="SK stoa.kr" tvg-name="SK Stoa" group-title="Shopping" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsASwS8eFTtOYLh2NJPvdU6SxGgY7xBngOFQ&s",SK Stoa
-http://cast.skstoa.com:8080/live/SKSTOA.daml/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="SK stoa.kr" tvg-name="SK Stoa" group-title="Shopping" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsASwS8eFTtOYLh2NJPvdU6SxGgY7xBngOFQ&s",SK Stoa
+# PARKED http://cast.skstoa.com:8080/live/SKSTOA.daml/playlist.m3u8
 #EXTINF:-1 tvg-id="WShopping.kr" tvg-name="W Shopping" group-title="Shopping" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZtS13PHU4I97_26UFjTuAKMST15QYvT7Lw&s",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 #EXTINF:-1 tvg-id="바둑TV.kr" tvg-name="Baduk TV" group-title="Sports" tvg-logo="https://i.imgur.com/o7y72cu.png",Baduk TV
