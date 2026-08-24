@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="arirang.kr" tvg-name="Arirang Korea" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/960px-Arirang.svg.png",Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="채널A.kr" tvg-name="Channel A" group-title="General" tvg-logo="https://i.imgur.com/V69QV5S.png",Channel A
-https://tving-live-o2-skcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg0MTM1NDYzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=T4rPqZHgrj87OL4A-NRu4rsMUjB8Tjk7bB-O7lAIvvvFWrm4zonOcYO2tESCku3~JRHkVpAnUKqb63G2OGXQDLwYlJcMVJN0aNtkrRPgZyVXMlcLBJ2ot1l5z9SQA9vyDLOJN8BplSBd4zozQA3z~c3lIdFNcK85-7svF8xgnXmPpUkXdtWJ5ToCkF4NVCWjhocP7JLTtb8Yo-UcK9ak3Cb4pp8xGvAa-iqsedH7shGyKrpBWsdn-Z8fMO4J6yt5g7XPKpMfEoPMvam6b4cOqSokZiSgtmlY3EAIsjF39PVb-CbwC9BHfEKNDNerHQIfJ28OS9BM0Edm7NTa7jTY~g__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=channela_540&sid=zLhHxUtd4yz2toiohNMEfx63yhemDSOd2xgsFaBV&secret=ad760dc9b77c911e341d5e114e36feff&time=1742500133
 #EXTINF:-1 tvg-id="채널A플러스.kr" tvg-name="Channel A Plus" group-title="General" tvg-logo="https://i.imgur.com/i5crAfh.png",Channel A Plus
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed904d9651eb80e79cd7979dc5/019ed90583cd153d78653cb4bf7bdd/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTc4OTgsInBhdGgiOiIvbzIifQ.1n56h0qmEe_zkijcYfUcXoz_EgTT06I6LuZvwErBOSE
 #EXTINF:-1 tvg-id="중화TV.kr" tvg-name="Chunghwa TV" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/84/%EC%A4%91%ED%99%94TV_logo.png",Chunghwa TV
-https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTg0NDQsInBhdGgiOiIvbzIifQ.xB_fLQSGPkXtHgy4U_0VugPToenzKab49fzUbJ4n2KA
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=chinesetv_540&sid=1zs8m9CsajpMXxNHeDJLmhn3wq0LUcYJYGwjgXJW&secret=03f7beff894c6917da6b82372a2fc208&time=1765893417
 #EXTINF:-1 tvg-id="코미디TV.kr" tvg-name="Comedy TV" group-title="General" tvg-logo="https://i.imgur.com/yeqj93e.png",Comedy TV
 http://124.222.153.240/kakaotv/get_channel.php?channel=ihq#.m3u8
 #EXTINF:-1 tvg-id="E채널.kr" tvg-name="E Channel" group-title="General" tvg-logo="https://i.imgur.com/dXaJ37Z.png",E Channel
@@ -62,7 +62,7 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da9
 #EXTINF:-1 tvg-id="MBC ON.kr" tvg-name="MBC ON" group-title="General" tvg-logo="https://i.imgur.com/AQzgnKD.png",MBC ON
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_on#.m3u8
 #EXTINF:-1 tvg-id="MBN.kr" tvg-name="MBN" group-title="General" tvg-logo="https://i.imgur.com/wm3JupT.png",MBN
-https://tving-live-o2-skcdn.tving.com/o2/v1/019d8a6c2db1153d786553381d0f4/019dd8e5a2ec1eb80e7925af014fc1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg0MTM1NDEzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=KMD9-g3chl~D7YG~hJBgo4ccJwT0mjyqlOj-ub7l19XO1ioll0Xyp977udoOSXFcNAOpUkDY4GcX~Hx3nDiol3jVe~WBw5-PIq7hJo0wjgerUJiEy78BOJe36dSt0GmnwFOG3RxTZ60L1~J~Iqp7h7dFuylpSIZjnjBjyGnIR~Drj7sfc3aqpnBg0vUx6liHjk4PfxcCe46pYQs5~JsAQLt0VVYO4XYt~iX61D2KiNO76IU8Pix1i7VJsMMFG9h~iC9yrKMXCcx76Ccxg-IuoSHgjuykPX9cYCk~cMQbq5c-zSP4Fr8u8idZ7BojCAn-5Bye0BsbJhw~5P8rYnSlkQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
 #EXTINF:-1 tvg-id="매일경제TV.kr" tvg-name="MBN Money TV" group-title="General" tvg-logo="https://i.ytimg.com/vi/s9xL1DpBsfQ/hq720.jpg",MBN Money TV
 http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBN News" group-title="General" tvg-logo="https://iptv-epg.org/images/vqJcfsQuIktjWXVU00rkc8DfuTp4CJk40qRFLohcwXM5HXVpcevyYC7Hjt9tueQIQHRqUpzIAFb2Itz9vCUS82pO7-_cNhDAWH9w",MBN News
@@ -70,7 +70,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019b8ccb7875153d78653848a01248/019b8c
 #EXTINF:-1 tvg-id="MBN Plus.kr" tvg-name="MBN Plus" group-title="General" tvg-logo="https://i.imgur.com/8isw1U0.png",MBN Plus
 https://tving-live-o2-skcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg0MTM1NDMwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=EYaY7bUtzNk6fqHR4t1qDc1vpB9RRbeFTLxWaLNIE9PzwCllAMCjpq~equR7SsjqKn9GLDgxd-Sd2zkYseieY9n7TaKuMa7u0NkaFu8foaQZ81XSLEajr8j-dy-reWO1f8I0NzVm0jrotBiDU7tWKiJZyfvU9j-RIo6ysIBEWud1k5b95Qnai8cqJPsOLPcbkuL93qOd5O4oryEOI1uHx0EJoQbuCgQJWsCONoy7gmKPefyQyqAFQkXJAJj~FbpBHO1szY1UWs6uC31BzdaT32tuns1HjwGEzMzL9CFnWa17dN3-YV~t~q30XVhKjz8HQUfxmIG~0oXESmyyJ7lNrA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 tvg-id="Mnet.kr" tvg-name="Mnet" group-title="General" tvg-logo="https://i.imgur.com/DGH10Z2.png",Mnet
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxMzU1MTMsInBhdGgiOiIvbzIifQ.BUJGtXo0Wzzx7K-3O9JJ5BL0CMd8rgG-3dHEhlFxZ5k
+https://k227.jk-cdn.com/watch/live.m3u8?video=mnet_540&sid=SC46Lwd9aCihIv74PE76odBGLTwnTgpH9GyOD6eg&secret=390a59b7f8b450dfb170e5c47590050f&time=1773168944
 #EXTINF:-1 tvg-id="NHK WORLD-JAPAN.kr" tvg-name="NHK World" group-title="General" tvg-logo="https://devmedia.discovernikkei.org/articles/6844/NHK.jpg",NHK World
 http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world#.m3u8
 #EXTINF:-1 tvg-id="nhtv.kr" group-title="General",NHTV
@@ -110,7 +110,7 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpG
 #EXTINF:-1 tvg-id="tvN DRAMA.kr" tvg-name="tvN Drama" group-title="General" tvg-logo="https://i.imgur.com/f91ieU8.png",tvN Drama
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTc2NjEsInBhdGgiOiIvbzIifQ.5QkjemnbTG7JYekjD0xwDhzhHtxINWGYeJHCiAA0UhI
 #EXTINF:-1 tvg-id="tvN SHOW.kr" tvg-name="tvN Show" group-title="General" tvg-logo="https://i.imgur.com/8OobmvS.png",tvN Show
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTc1ODQsInBhdGgiOiIvbzIifQ.fYKIsHOSq4f8MAaKtRJTnRUmTjy2EoPc5HBWpN09oMQ
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=btei8SrdZCpwjr93FgzI7OGAdeeXCXGw4BXFPzQo&secret=a9025939f2d1e981d2020031a966729e&time=1765893046
 #EXTINF:-1 tvg-id="tvN STORY.kr" tvg-name="tvN Story" group-title="General" tvg-logo="https://i.imgur.com/zy0bmH6.png",tvN Story
 https://jmp2.uk/stvp-KRBC3200014XZ
 #EXTINF:-1 tvg-id="AniBox.kr" tvg-name="ANIBOX" group-title="Kids" tvg-logo="https://i.imgur.com/5SZfGmy.png",ANIBOX
@@ -139,8 +139,8 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="MBCJeju.kr" tvg-name="MBC Jeju" group-title="Local" tvg-logo="https://i.imgur.com/JM4rxGU.png",MBC Jeju (제주)
 # PARKED https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-# PARKED #EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-name="MBC Mokpo" group-title="Local" tvg-logo="https://i.imgur.com/5oraHc0.png",MBC Mokpo (목포)
-# PARKED http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-name="MBC Mokpo" group-title="Local" tvg-logo="https://i.imgur.com/5oraHc0.png",MBC Mokpo (목포)
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="여수 MBC.kr" tvg-name="MBC Yeosu" group-title="Local" tvg-logo="https://i.imgur.com/3VSuYsn.png",MBC Yeosu (여수)
 # PARKED https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CJB 청주방송.kr" tvg-name="SBS CJB" group-title="Local" tvg-logo="https://i.imgur.com/zVunmpQ.png",SBS CJB
