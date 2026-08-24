@@ -38,7 +38,7 @@ PLAYLIST_MAIN = "CU_Categories.m3u"
 PLAYLISTS = [PLAYLIST_MAIN]
 
 # Committed local candidate pool (always present, never depends on network).
-LOCAL_POOLS = ["kr_pool_hans.m3u", "kr_pool_korea2.m3u8"]
+LOCAL_POOLS = ["kr_pool_hans.m3u", "kr_pool_korea2.m3u8", "kr_pool_iptvmaster.m3u"]
 
 # Live candidate pools, fetched each run. Raw URLs.
 REMOTE_POOLS = [
@@ -400,4 +400,3 @@ def main():
 
 if __name__ == "__main__":
     main()
- 
