@@ -75,8 +75,8 @@ https://k227.jk-cdn.com/watch/live.m3u8?video=mnet_540&sid=SC46Lwd9aCihIv74PE76o
 http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world#.m3u8
 #EXTINF:-1 tvg-id="nhtv.kr" group-title="General",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 tvg-id="OBS 경인TV.kr" tvg-name="OBS" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/OBS_Kyung-In_TV_2007.svg/960px-OBS_Kyung-In_TV_2007.svg.png",OBS
-https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="OBS 경인TV.kr" tvg-name="OBS" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/OBS_Kyung-In_TV_2007.svg/960px-OBS_Kyung-In_TV_2007.svg.png",OBS
+# PARKED https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OCN.kr" tvg-name="OCN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/1280px-OCN_Logo.svg.png",OCN
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn#.m3u8
 #EXTINF:-1 tvg-id="OCN Movies.kr" tvg-name="OCN Movies" group-title="General" tvg-logo="https://i.imgur.com/VwPHXfi.png",OCN Movies
