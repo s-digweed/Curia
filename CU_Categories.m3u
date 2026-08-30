@@ -233,8 +233,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports#.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=fishing_tv#.m3u8
 #EXTINF:-1 tvg-id="JTBC Golf.kr" tvg-name="JTBC Golf" group-title="Sports" tvg-logo="https://iptv-epg.org/images/qvtuFtdk9pFxtVUqJanoYQal0_bk2xwfroV4Lhg48DQCtWlmfSj7fuj_C1bDNsxtJppCtCHKyu3xejVy5vFYrKpmr04qOepY8DtjxB1Zt8w",JTBC Golf
 http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf#.m3u8
-# PARKED #EXTINF:-1 tvg-id="KBS N SPORTS.kr" tvg-name="KBS N Sports" group-title="Sports" tvg-logo="https://iptv-epg.org/images/J74FZRmjOgJ7NRPdcwQ698I3iwqgXlvqH7_2-UYEzMrPBCk38HqsXwCMb1bvTFXdQpYH4Bq7Pj6zq1YIUFH5YmB3P_cDKBF5lOfDoZedWdhDnQ",KBS N Sports
-# PARKED http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports#.m3u8
+#EXTINF:-1 tvg-id="KBS N SPORTS.kr" tvg-name="KBS N Sports" group-title="Sports" tvg-logo="https://iptv-epg.org/images/J74FZRmjOgJ7NRPdcwQ698I3iwqgXlvqH7_2-UYEzMrPBCk38HqsXwCMb1bvTFXdQpYH4Bq7Pj6zq1YIUFH5YmB3P_cDKBF5lOfDoZedWdhDnQ",KBS N Sports
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=lkQCgUJXxH2vNQDwjbA9vvJLDmUl95x5WGNDg4kC&secret=0742366f04974647047748e2f2c60f53&time=1765891722
 #EXTINF:-1 tvg-id="MBC스포츠 플러스.kr" tvg-name="MBC Sports+" group-title="Sports" tvg-logo="https://static.skylife.co.kr/upload/channel/202504/MBC_스포츠플러스_white.jpg",MBC Sports+
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports#.m3u8
 #EXTINF:-1 tvg-id="SBS Golf.kr" tvg-name="SBS Golf" group-title="Sports" tvg-logo="https://iptv-epg.org/images/CkrtlcssOMKcSJt3sEk0nEiXmOAP4qL67t6J_w6B9cxrCdB2gr3KTECuZzLqHLw9fCej7OIR_YBmsNVinNNmFH9mbDuYsjkEfhtueML1kA",SBS Golf
