@@ -147,8 +147,8 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="SBS JIBS" group-title="Local" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-# PARKED #EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
-# PARKED http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="SBS KBC" group-title="Local" tvg-logo="https://i.imgur.com/Srsw4Mi.png",SBS KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="UBC 울산방송.kr" tvg-name="SBS UBC" group-title="Local" tvg-logo="https://i.imgur.com/BBCoqIf.png",SBS UBC
