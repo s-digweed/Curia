@@ -106,7 +106,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV CHOSUN2.kr" tvg-name="TV Chosun 2" group-title="General" tvg-logo="https://i.imgur.com/Ev5JoBJ.png",TV Chosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN.kr" tvg-name="tvN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png",tvN
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
 #EXTINF:-1 tvg-id="tvN DRAMA.kr" tvg-name="tvN Drama" group-title="General" tvg-logo="https://i.imgur.com/f91ieU8.png",tvN Drama
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTc2NjEsInBhdGgiOiIvbzIifQ.5QkjemnbTG7JYekjD0xwDhzhHtxINWGYeJHCiAA0UhI
 #EXTINF:-1 tvg-id="tvN SHOW.kr" tvg-name="tvN Show" group-title="General" tvg-logo="https://i.imgur.com/8OobmvS.png",tvN Show
@@ -147,8 +147,8 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="SBS JIBS" group-title="Local" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-# PARKED #EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
-# PARKED http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="SBS KBC" group-title="Local" tvg-logo="https://i.imgur.com/Srsw4Mi.png",SBS KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="UBC 울산방송.kr" tvg-name="SBS UBC" group-title="Local" tvg-logo="https://i.imgur.com/BBCoqIf.png",SBS UBC
