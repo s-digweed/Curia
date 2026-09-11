@@ -57,8 +57,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d668fbfde153d786553381d0db/019d669072be153d786553381d0de/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTgzNjUsInBhdGgiOiIvbzIifQ.p7wqhXwufDRvwxRnh1nrjwTNQbo3CW-6awyk37Lf08M
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC" group-title="General" tvg-logo="https://iptv-epg.org/images/Xz-7yCscLbwHSthOwi2o9D6tZORZOy0ZhidiUGJvi0-vo1ZyRx7QbxZ2A3D11gbyjRgTErzxCscPq_ZRazVXK2S2tPrl5BZ2dmXW",MBC
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
-# PARKED #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America" group-title="General" tvg-logo="https://i.imgur.com/RRc23ra.png",MBC America
-# PARKED https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America" group-title="General" tvg-logo="https://i.imgur.com/RRc23ra.png",MBC America
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=382867&extension=ts
 #EXTINF:-1 tvg-id="MBC ON.kr" tvg-name="MBC ON" group-title="General" tvg-logo="https://i.imgur.com/AQzgnKD.png",MBC ON
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_on#.m3u8
 #EXTINF:-1 tvg-id="MBN.kr" tvg-name="MBN" group-title="General" tvg-logo="https://i.imgur.com/wm3JupT.png",MBN
@@ -147,8 +147,8 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="SBS JIBS" group-title="Local" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
-http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
+# PARKED http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="SBS KBC" group-title="Local" tvg-logo="https://i.imgur.com/Srsw4Mi.png",SBS KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="UBC 울산방송.kr" tvg-name="SBS UBC" group-title="Local" tvg-logo="https://i.imgur.com/BBCoqIf.png",SBS UBC
