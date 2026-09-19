@@ -106,7 +106,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 #EXTINF:-1 tvg-id="TV CHOSUN2.kr" tvg-name="TV Chosun 2" group-title="General" tvg-logo="https://i.imgur.com/Ev5JoBJ.png",TV Chosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN.kr" tvg-name="tvN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png",tvN
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
 #EXTINF:-1 tvg-id="tvN DRAMA.kr" tvg-name="tvN Drama" group-title="General" tvg-logo="https://i.imgur.com/f91ieU8.png",tvN Drama
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTc2NjEsInBhdGgiOiIvbzIifQ.5QkjemnbTG7JYekjD0xwDhzhHtxINWGYeJHCiAA0UhI
 #EXTINF:-1 tvg-id="tvN SHOW.kr" tvg-name="tvN Show" group-title="General" tvg-logo="https://i.imgur.com/8OobmvS.png",tvN Show
@@ -133,8 +133,8 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d667
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC 충북.kr" tvg-name="MBC Chungbuk" group-title="Local" tvg-logo="https://i.imgur.com/uR0gScb.png",MBC Chungbuk (충북)
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="대전 MBC.kr" tvg-name="MBC Daejeon" group-title="Local" tvg-logo="https://i.imgur.com/HCbvAiM.png",MBC Daejeon (대전)
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="대전 MBC.kr" tvg-name="MBC Daejeon" group-title="Local" tvg-logo="https://i.imgur.com/HCbvAiM.png",MBC Daejeon (대전)
+# PARKED https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC 강원영동.kr" tvg-name="MBC Gangwon" group-title="Local" tvg-logo="https://i.imgur.com/FGsKCH3.png",MBC Gangwon (강원영동)
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="MBCJeju.kr" tvg-name="MBC Jeju" group-title="Local" tvg-logo="https://i.imgur.com/JM4rxGU.png",MBC Jeju (제주)
