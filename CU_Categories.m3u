@@ -173,8 +173,8 @@ https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 #EXTINF:-1 tvg-id="BBS.불교방송.kr" tvg-name="BBS" group-title="Religion" tvg-logo="https://i.imgur.com/01UmXRe.png",BBS
 http://124.222.153.240/kakaotv/get_channel.php?channel=buddhist_tv#.m3u8
-# PARKED #EXTINF:-1 tvg-id="BTNTV.kr" tvg-name="BTN TV" group-title="Religion" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg",BTN TV
-# PARKED https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 tvg-id="BTNTV.kr" tvg-name="BTN TV" group-title="Religion" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 tvg-id="가톨릭평화방송.kr" tvg-name="CPBC (가톨릭 평화방송)" group-title="Religion" tvg-logo="https://i.imgur.com/Psy4IBg.png",CPBC (가톨릭 평화방송)
 http://124.222.153.240/kakaotv/get_channel.php?channel=catholic_peace_tv#.m3u8
 #EXTINF:-1 tvg-id="CTSTV.kr" tvg-name="CTS TV" group-title="Religion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZR6nhnbzksExbkf2fSXuVq4gE6k7DI1nhaA&s",CTS TV
