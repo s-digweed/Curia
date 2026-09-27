@@ -129,8 +129,8 @@ http://koreatv.dothome.co.kr/kbskids.php#.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=pororo_tv#.m3u8
 #EXTINF:-1 tvg-id="투니버스.kr" tvg-name="Tooniverse" group-title="Kids" tvg-logo="https://i.imgur.com/Fesm8M3.png",Tooniverse
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d66738cb41eb80e796d9bd9cad/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTkxMzMsInBhdGgiOiIvbzIifQ.H3UYpCHaxZLJKNHkJQVUGUAkJ47BhqU7HYMk5uYan_w
-#EXTINF:-1 tvg-id="MBCChuncheon.kr" tvg-name="MBC Chuncheon" group-title="Local" tvg-logo="https://i.imgur.com/lthyx2P.png",MBC Chuncheon (춘천)
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="MBCChuncheon.kr" tvg-name="MBC Chuncheon" group-title="Local" tvg-logo="https://i.imgur.com/lthyx2P.png",MBC Chuncheon (춘천)
+# PARKED https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC 충북.kr" tvg-name="MBC Chungbuk" group-title="Local" tvg-logo="https://i.imgur.com/uR0gScb.png",MBC Chungbuk (충북)
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="대전 MBC.kr" tvg-name="MBC Daejeon" group-title="Local" tvg-logo="https://i.imgur.com/HCbvAiM.png",MBC Daejeon (대전)
