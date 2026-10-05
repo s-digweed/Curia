@@ -50,9 +50,9 @@ http://koreatv.dothome.co.kr/kbsstory.php
 #EXTINF:-1 tvg-id="KBS WORLD.kr" tvg-name="KBS World" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/960px-KBS_World.svg.png",KBS World
 http://koreatv.dothome.co.kr/kbsworld.php
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS1" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/960px-KBS_1_logo.svg.png",KBS1
-http://koreatv.dothome.co.kr/kbs1.php
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1
 #EXTINF:-1 tvg-id="KBS2.kr" tvg-name="KBS2" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/960px-KBS_2_logo.svg.png",KBS2
-http://koreatv.dothome.co.kr/kbs2.php
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
 #EXTINF:-1 tvg-id="라이프타임채널.kr" tvg-name="LIFETIME" group-title="General" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png",LIFETIME
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d668fbfde153d786553381d0db/019d669072be153d786553381d0de/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxNTgzNjUsInBhdGgiOiIvbzIifQ.p7wqhXwufDRvwxRnh1nrjwTNQbo3CW-6awyk37Lf08M
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC" group-title="General" tvg-logo="https://iptv-epg.org/images/Xz-7yCscLbwHSthOwi2o9D6tZORZOy0ZhidiUGJvi0-vo1ZyRx7QbxZ2A3D11gbyjRgTErzxCscPq_ZRazVXK2S2tPrl5BZ2dmXW",MBC
@@ -147,8 +147,8 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="SBS JIBS" group-title="Local" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-# PARKED #EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
-# PARKED http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="SBS KBC" group-title="Local" tvg-logo="https://i.imgur.com/Srsw4Mi.png",SBS KBC
 http://123.140.197.22/stream/1/play.m3u8
 # PARKED #EXTINF:-1 tvg-id="UBC 울산방송.kr" tvg-name="SBS UBC" group-title="Local" tvg-logo="https://i.imgur.com/BBCoqIf.png",SBS UBC
@@ -232,13 +232,13 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=e5wpHc
 # PARKED #EXTINF:-1 tvg-id="한국낚시방송.kr" tvg-name="Fishing TV" group-title="Sports" tvg-logo="https://static.skylife.co.kr/upload/channel/202402/fishingTV.jpg",Fishing TV
 # PARKED http://124.222.153.240/kakaotv/get_channel.php?channel=fishing_tv#.m3u8
 #EXTINF:-1 tvg-id="JTBC Golf.kr" tvg-name="JTBC Golf" group-title="Sports" tvg-logo="https://iptv-epg.org/images/qvtuFtdk9pFxtVUqJanoYQal0_bk2xwfroV4Lhg48DQCtWlmfSj7fuj_C1bDNsxtJppCtCHKyu3xejVy5vFYrKpmr04qOepY8DtjxB1Zt8w",JTBC Golf
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtYdf0NkahvQH5htgrTyYBAMvPlcYyucRaaE&secret=d61a1c8d2e94ff376e7edd6ddfd8d7be&time=1772754325
+https://jmp2.uk/stvp-KRBD5200002XY
 #EXTINF:-1 tvg-id="KBS N SPORTS.kr" tvg-name="KBS N Sports" group-title="Sports" tvg-logo="https://iptv-epg.org/images/J74FZRmjOgJ7NRPdcwQ698I3iwqgXlvqH7_2-UYEzMrPBCk38HqsXwCMb1bvTFXdQpYH4Bq7Pj6zq1YIUFH5YmB3P_cDKBF5lOfDoZedWdhDnQ",KBS N Sports
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=lkQCgUJXxH2vNQDwjbA9vvJLDmUl95x5WGNDg4kC&secret=0742366f04974647047748e2f2c60f53&time=1765891722
 #EXTINF:-1 tvg-id="MBC스포츠 플러스.kr" tvg-name="MBC Sports+" group-title="Sports" tvg-logo="https://static.skylife.co.kr/upload/channel/202504/MBC_스포츠플러스_white.jpg",MBC Sports+
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=POxYPQ43PhrNZ8GskNfoG7byfjHxe7z93rrViHoU&secret=e2184c649e9eabbdeda2bb0e75c5abac&time=1765891315
 #EXTINF:-1 tvg-id="SBS Golf.kr" tvg-name="SBS Golf" group-title="Sports" tvg-logo="https://iptv-epg.org/images/CkrtlcssOMKcSJt3sEk0nEiXmOAP4qL67t6J_w6B9cxrCdB2gr3KTECuZzLqHLw9fCej7OIR_YBmsNVinNNmFH9mbDuYsjkEfhtueML1kA",SBS Golf
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=GL5kkVROZTJ18fuJkn4g33UsnCVEtuUyqSgZLcai&secret=061012f18a638c3b009b3978c09e032c&time=1772754283
+https://xyktmobile00.s.gy/PPV922_GOLF_TV
 #EXTINF:-1 tvg-id="SBS Golf2.kr" tvg-name="SBS Golf 2" group-title="Sports" tvg-logo="https://backup.760515.xyz/logo/SBS Golf2.png",SBS Golf 2
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
 #EXTINF:-1 tvg-id="SBS Sports.kr" tvg-name="SBS Sports" group-title="Sports" tvg-logo="https://iptv-epg.org/images/rHTH2vYoVOx1Xz3Wp3nkcwDkiMlVba5KmMSjFuJHygGW_1vo01TVKfelDbSTMy0K5NFJFx0mFou134wmW1durRJPj-h7W26-WJ_2uMa669tV",SBS Sports
