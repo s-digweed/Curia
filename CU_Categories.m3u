@@ -202,7 +202,7 @@ https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HomeandShopping.kr" tvg-name="Home & Shopping" group-title="Shopping" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpztwJv4QsOLU4RPp6ZRhnSMz8cLi4pNZ--A&s",Home & Shopping
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1 tvg-id="현대홈쇼핑.kr" tvg-name="Hyundai Home Shopping" group-title="Shopping" tvg-logo="https://i.imgur.com/NJpECmq.png",Hyundai Home Shopping
-https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
 #EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-name="Hyundai Home Shopping Plus" group-title="Shopping" tvg-logo="https://i.imgur.com/DoNOuZE.png",Hyundai Home Shopping Plus
 https://dtvstreaming.hyundaihmall.com/newcjp3/definst/newcjpstream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="롯데홈쇼핑.kr" tvg-name="Lotte Home Shopping" group-title="Shopping" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5fG5XkmCn6Br31e26zLPBBxoLursqsAiTA&s",Lotte Home Shopping
