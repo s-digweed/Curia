@@ -62,7 +62,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=382867&e
 #EXTINF:-1 tvg-id="MBC ON.kr" tvg-name="MBC ON" group-title="General" tvg-logo="https://i.imgur.com/AQzgnKD.png",MBC ON
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=eTTqEJ0bwgsl4WbHyEWCbu1C6Rs7ntHJaCUcq09S&secret=56c57029ef6aa1e04a3895d8b6c91506&time=1765893385
 #EXTINF:-1 tvg-id="MBN.kr" tvg-name="MBN" group-title="General" tvg-logo="https://i.imgur.com/wm3JupT.png",MBN
-https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
 #EXTINF:-1 tvg-id="매일경제TV.kr" tvg-name="MBN Money TV" group-title="General" tvg-logo="https://i.ytimg.com/vi/s9xL1DpBsfQ/hq720.jpg",MBN Money TV
 http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBN News" group-title="General" tvg-logo="https://iptv-epg.org/images/vqJcfsQuIktjWXVU00rkc8DfuTp4CJk40qRFLohcwXM5HXVpcevyYC7Hjt9tueQIQHRqUpzIAFb2Itz9vCUS82pO7-_cNhDAWH9w",MBN News
