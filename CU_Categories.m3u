@@ -73,8 +73,8 @@ https://tving-live-o2-skcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8
 https://k227.jk-cdn.com/watch/live.m3u8?video=mnet_540&sid=SC46Lwd9aCihIv74PE76odBGLTwnTgpH9GyOD6eg&secret=390a59b7f8b450dfb170e5c47590050f&time=1773168944
 #EXTINF:-1 tvg-id="NHK WORLD-JAPAN.kr" tvg-name="NHK World" group-title="General" tvg-logo="https://devmedia.discovernikkei.org/articles/6844/NHK.jpg",NHK World
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=nhk_wold_540&sid=VQ5jdk6wCPjw6VcPfOv76Syot6CoP9YgzBLFeHjZ&secret=a86dad9133b53ffc834fe98b63c98919&time=1742558568
-#EXTINF:-1 tvg-id="nhtv.kr" group-title="General",NHTV
-http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="nhtv.kr" group-title="General",NHTV
+# PARKED http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="OBS 경인TV.kr" tvg-name="OBS" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/OBS_Kyung-In_TV_2007.svg/960px-OBS_Kyung-In_TV_2007.svg.png",OBS
 # PARKED https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OCN.kr" tvg-name="OCN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/1280px-OCN_Logo.svg.png",OCN
@@ -147,8 +147,8 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="SBS JIBS" group-title="Local" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-# PARKED #EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
-# PARKED http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="SBS KBC" group-title="Local" tvg-logo="https://i.imgur.com/Srsw4Mi.png",SBS KBC
 http://123.140.197.22/stream/1/play.m3u8
 # PARKED #EXTINF:-1 tvg-id="UBC 울산방송.kr" tvg-name="SBS UBC" group-title="Local" tvg-logo="https://i.imgur.com/BBCoqIf.png",SBS UBC
