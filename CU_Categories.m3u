@@ -135,8 +135,8 @@ https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="대전 MBC.kr" tvg-name="MBC Daejeon" group-title="Local" tvg-logo="https://i.imgur.com/HCbvAiM.png",MBC Daejeon (대전)
 # PARKED https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC 강원영동.kr" tvg-name="MBC Gangwon" group-title="Local" tvg-logo="https://i.imgur.com/FGsKCH3.png",MBC Gangwon (강원영동)
-http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="MBC 강원영동.kr" tvg-name="MBC Gangwon" group-title="Local" tvg-logo="https://i.imgur.com/FGsKCH3.png",MBC Gangwon (강원영동)
+# PARKED http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="MBCJeju.kr" tvg-name="MBC Jeju" group-title="Local" tvg-logo="https://i.imgur.com/JM4rxGU.png",MBC Jeju (제주)
 # PARKED https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-name="MBC Mokpo" group-title="Local" tvg-logo="https://i.imgur.com/5oraHc0.png",MBC Mokpo (목포)
@@ -147,8 +147,8 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="SBS JIBS" group-title="Local" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-# PARKED #EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
-# PARKED http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="SBS KBC" group-title="Local" tvg-logo="https://i.imgur.com/Srsw4Mi.png",SBS KBC
 http://123.140.197.22/stream/1/play.m3u8
 # PARKED #EXTINF:-1 tvg-id="UBC 울산방송.kr" tvg-name="SBS UBC" group-title="Local" tvg-logo="https://i.imgur.com/BBCoqIf.png",SBS UBC
@@ -185,8 +185,8 @@ https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 # PARKED #EXTINF:-1 tvg-id="GoodTV.kr" tvg-name="GOODTV" group-title="Religion" tvg-logo="https://play-lh.googleusercontent.com/GUpUMSk51VT2TBsc0GKpH8g_fa9Htn37v2HRxsxyIfy-upsrdlpC2zKaaoEPlj1SSA",GOODTV
 # PARKED http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-name="RUTC TV" group-title="Religion" tvg-logo="https://yt3.googleusercontent.com/0kdhQmQiR_TeEkRU0kZwnrM2xr4DZ_Jzs8sS9WRP-akBQvmORcowT03gPWRDdCROgalXJg_KeA=s900-c-k-c0x00ffffff-no-rj",RUTC TV
-http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+# PARKED #EXTINF:-1 tvg-id="RUTCTV.kr" tvg-name="RUTC TV" group-title="Religion" tvg-logo="https://yt3.googleusercontent.com/0kdhQmQiR_TeEkRU0kZwnrM2xr4DZ_Jzs8sS9WRP-akBQvmORcowT03gPWRDdCROgalXJg_KeA=s900-c-k-c0x00ffffff-no-rj",RUTC TV
+# PARKED http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WBS.kr" tvg-name="WBS Buddhist TV" group-title="Religion" tvg-logo="https://lh6.googleusercontent.com/proxy/vw3BdeSLBdgb1I_b1j7P454KSAXywRTF-TNQ0mVy6UC_lutUJXKI_gNBjkeZRBUuRe9fEhssYTn4Cg",WBS Buddhist TV
 http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_409.m3u8
 #EXTINF:-1 tvg-id="CJ온스타일.kr" tvg-name="CJ OnStyle" group-title="Shopping" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png",CJ OnStyle
