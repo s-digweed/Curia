@@ -62,7 +62,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=382867&e
 #EXTINF:-1 tvg-id="MBC ON.kr" tvg-name="MBC ON" group-title="General" tvg-logo="https://i.imgur.com/AQzgnKD.png",MBC ON
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=eTTqEJ0bwgsl4WbHyEWCbu1C6Rs7ntHJaCUcq09S&secret=56c57029ef6aa1e04a3895d8b6c91506&time=1765893385
 #EXTINF:-1 tvg-id="MBN.kr" tvg-name="MBN" group-title="General" tvg-logo="https://i.imgur.com/wm3JupT.png",MBN
-https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
 #EXTINF:-1 tvg-id="매일경제TV.kr" tvg-name="MBN Money TV" group-title="General" tvg-logo="https://i.ytimg.com/vi/s9xL1DpBsfQ/hq720.jpg",MBN Money TV
 http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBN News" group-title="General" tvg-logo="https://iptv-epg.org/images/vqJcfsQuIktjWXVU00rkc8DfuTp4CJk40qRFLohcwXM5HXVpcevyYC7Hjt9tueQIQHRqUpzIAFb2Itz9vCUS82pO7-_cNhDAWH9w",MBN News
@@ -147,8 +147,8 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="SBS JIBS" group-title="Local" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
-# PARKED #EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
-# PARKED http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBC 광주방송.kr" tvg-name="SBS KBC" group-title="Local" tvg-logo="https://i.imgur.com/Srsw4Mi.png",SBS KBC
 http://123.140.197.22/stream/1/play.m3u8
 # PARKED #EXTINF:-1 tvg-id="UBC 울산방송.kr" tvg-name="SBS UBC" group-title="Local" tvg-logo="https://i.imgur.com/BBCoqIf.png",SBS UBC
@@ -250,10 +250,10 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=6Os571NBi
 #EXTINF:-1 tvg-id="SPOTV Golf & Health.kr" tvg-name="SPOTV Golf & Health" group-title="Sports" tvg-logo="https://i.imgur.com/pjZx3Zj.png",SPOTV Golf & Health
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
 #EXTINF:-1 tvg-id="SPOTV PRIME.kr" tvg-name="SPOTV Prime 1" group-title="Sports" tvg-logo="https://iptv-epg.org/images/E0nu6nZzzS2aAWoQAZrN4tEybmc1_sUQjmn5JOuPDzO_LUMewyOp9e4meA6zMXV_1Hjs990EeJFB6ppZuWfWJ6NKIBmCxsm8gq4yp8GLAkKoT_bhS0jV68L9TVOCuSpTx5j74Mc",SPOTV Prime 1
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7BM30mUHBJ16jx15KF2NMLVTKKEhI9ZhSC23Y&secret=a8100c7415537e5da2db40962181614a&time=1765892590
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on_540&sid=EQlmnOkHl5Esy6PNLmk1Sg1dVK1CKw2tkgZBj7nL&secret=dbbfb4a09b4bd1c862748c947b533db6&time=1765892639
 #EXTINF:-1 tvg-id="SPOTV PRIME2.kr" tvg-name="SPOTV Prime 2" group-title="Sports" tvg-logo="https://iptv-epg.org/images/9z-0VAsOv9i7RRMlwF7CUSCUYBtMo_E3tx4NFFuPUP8w4-VGLEdOsBSs0Y_dytol8FO3OjITpWo-cr_ak3ymO-CtD1E27RiILerf0PdNzUzrmKmfaFBTRRFDNULRP7Ga4tYUBilk",SPOTV Prime 2
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV2IWGvrm9eDXXDpgeD452TYwz27ds&secret=22948804ea0eaae93297a9a5b766ef95&time=1765892812
 #EXTINF:-1 tvg-id="SPOTV PRIME+.kr" tvg-name="SPOTV Prime+" group-title="Sports" tvg-logo="https://iptv-epg.org/images/V_B6BWtk86t2bXKR1Xex2V6yO_X_glDHHWJmBjwqwguebPtkWCtY43rGIgjRw4VfHit0nRrp8fEq2taORd5No1tas_zaIr6gzlBXLwkKcr4qjS7EqYwQbiN2qXn1bijYNATl9ba8mcc",SPOTV Prime+
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7BM30mUHBJ16jx15KF2NMLVTKKEhI9ZhSC23Y&secret=a8100c7415537e5da2db40962181614a&time=1765892590
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on_540&sid=EQlmnOkHl5Esy6PNLmk1Sg1dVK1CKw2tkgZBj7nL&secret=dbbfb4a09b4bd1c862748c947b533db6&time=1765892639
 #EXTINF:-1 tvg-id="tvN SPORTS.kr" tvg-name="tvN Sports" group-title="Sports" tvg-logo="https://iptv-epg.org/images/maIcE3tY6DI3qjW18t9UwI4sgI-Bu4GqGsvxcEqrepAazsHzyo_DLmtSJY3y_aCLEOCTuLk5QzEfQpamtGDE9MO0VnerE5vddhvsJfp7Iy7C",tvN Sports
 https://jmp2.uk/stvp-KRBC800015MH
