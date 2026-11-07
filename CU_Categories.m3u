@@ -144,7 +144,7 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 # PARKED #EXTINF:-1 tvg-id="여수 MBC.kr" tvg-name="MBC Yeosu" group-title="Local" tvg-logo="https://i.imgur.com/3VSuYsn.png",MBC Yeosu (여수)
 # PARKED https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CJB 청주방송.kr" tvg-name="SBS CJB" group-title="Local" tvg-logo="https://i.imgur.com/zVunmpQ.png",SBS CJB
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JIBS 제주방송.kr" tvg-name="SBS JIBS" group-title="Local" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="JTV 전주방송.kr" tvg-name="SBS JTV" group-title="Local" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV
