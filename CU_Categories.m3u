@@ -75,8 +75,8 @@ https://k227.jk-cdn.com/watch/live.m3u8?video=mnet_540&sid=SC46Lwd9aCihIv74PE76o
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=nhk_wold_540&sid=VQ5jdk6wCPjw6VcPfOv76Syot6CoP9YgzBLFeHjZ&secret=a86dad9133b53ffc834fe98b63c98919&time=1742558568
 #EXTINF:-1 tvg-id="nhtv.kr" group-title="General",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-# PARKED #EXTINF:-1 tvg-id="OBS 경인TV.kr" tvg-name="OBS" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/OBS_Kyung-In_TV_2007.svg/960px-OBS_Kyung-In_TV_2007.svg.png",OBS
-# PARKED https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OBS 경인TV.kr" tvg-name="OBS" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/OBS_Kyung-In_TV_2007.svg/960px-OBS_Kyung-In_TV_2007.svg.png",OBS
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OCN.kr" tvg-name="OCN" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/1280px-OCN_Logo.svg.png",OCN
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=BSayDAwe3oRk1TIWnlZxSFNn2ij2D50BdXO0q6AS&secret=aa35da20dba3436b85fd34d6b4d8f910&time=1772754670
 #EXTINF:-1 tvg-id="OCN Movies.kr" tvg-name="OCN Movies" group-title="General" tvg-logo="https://i.imgur.com/VwPHXfi.png",OCN Movies
