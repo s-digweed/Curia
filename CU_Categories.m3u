@@ -30,7 +30,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668
 #EXTINF:-1 tvg-id="아이넷TV.kr" tvg-name="iNet" group-title="General" tvg-logo="https://phinf.pstatic.net/tvcast/20180129_229/HC3fY_1517192891626R5SDr_JPEG/1517192891604.jpg",iNet
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-name="JTBC" group-title="General" tvg-logo="https://i.imgur.com/fCruRmS.png",JTBC
-https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=kbtxyuPVF37QVO3zGKMNyQSQo063cYeik0Vr0GoS&secret=133ec1aaf7cf7cf8f6aa77e714da7059&time=1765892075
 #EXTINF:-1 tvg-id="" tvg-name="JTBC News" group-title="General" tvg-logo="https://play-lh.googleusercontent.com/S8X_ZUKgJCrlf1ihLTXIqodbA0V2m-FPIKlmMdV-z5qmKpLSbmFViUIo4CUnGknx47I",JTBC News
 https://tving-live-o2-xcdn.tving.com/o2/v1/019bf8af365e153d78652a264b9f3f/019bf8afd0fe153d78652a264b9f42/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQxMzUxMzEsInBhdGgiOiIvbzIifQ.Q4ZbL4-QPlR1CMpa9Fc8ZdIO6wq5aLW7PPT0xe5SRrQ
 #EXTINF:-1 tvg-id="JTBC2.kr" tvg-name="JTBC2" group-title="General" tvg-logo="https://i.imgur.com/kljWkXS.png",JTBC2
